@@ -1,9 +1,5 @@
 package course.sf.sfg_dep_inj_confg.model;
 
-
-import org.springframework.stereotype.Repository;
-
-@Repository
 public class GreetingRepositoryImpl implements GreetingRepository {
 
     @Override
